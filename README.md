@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jayaranjani
-- 👀 I’m interested in Java
 - I'm working as a software engineer
 - Passionate about coding
+- Good in Java and Golang
 - Interested in learning new things and technologies
 
 <!---
